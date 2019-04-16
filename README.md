@@ -2,7 +2,7 @@
 
 An Rest API created to include, select and exclude events, update and select actors of an event.
 
-# Technologies used
+## Used technologies
 - HTML
 - CSS
 - JavaScript
